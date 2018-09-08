@@ -4,7 +4,7 @@ This repository contains a .csv file with cancer diagnosis data. To load it into
 ```python
 import pandas as pd
 
-df = read_csv('')
+df = pd.read_csv('')
 ```
 
    This breast cancer databases was obtained from the University of Wisconsin<br>
